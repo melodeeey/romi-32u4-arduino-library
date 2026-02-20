@@ -4,7 +4,7 @@
 
 #pragma once
 
-#include <PololuBuzzer.h>
+#include <PololuBuzzernew.h>
 
 /*! \brief Plays beeps and music on the buzzer on the Romi 32U4.
  *
