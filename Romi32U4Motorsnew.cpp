@@ -1,6 +1,6 @@
 // Copyright Pololu Corporation.  For more information, see http://www.pololu.com/
 
-#include <Romi32U4Motors.h>
+#include <Romi32U4Motorsnew.h>
 #include <FastGPIO.h>
 #include <avr/io.h>
 
