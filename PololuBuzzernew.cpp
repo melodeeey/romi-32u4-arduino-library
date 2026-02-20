@@ -1,7 +1,7 @@
 // Copyright Pololu Corporation.  For more information, see http://www.pololu.com/
 
 #include <avr/interrupt.h>
-#include "PololuBuzzer.h"
+#include "PololuBuzzernew.h"
 
 #ifdef __AVR_ATmega32U4__
 
